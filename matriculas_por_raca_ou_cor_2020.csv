@@ -1,0 +1,351 @@
+;NO_CINE_ROTULO;QT_MAT_AMARELA;QT_MAT_BRANCA;QT_MAT_CORND;QT_MAT_INDIGENA;QT_MAT_PARDA;QT_MAT_PRETA;NEGRA;TOTAL
+0;ABI Artes e humanidades;180;4417;243;17;1244;622;1866;6723
+1;"""ABI Ciências naturais  matemática e estatística""";135;3075;218;5;935;359;1294;4727
+2;"""ABI Ciências sociais  comunicação e informação""";45;2168;169;11;830;517;1347;3740
+3;ABI Computação e Tecnologias da Informação e Comunicação (TIC);3;59;1;1;95;35;130;194
+4;ABI Educação;25;283;6;183;394;134;528;1025
+5;"""ABI Engenharia  produção e construção""";102;1538;373;4;1011;183;1194;3211
+6;ABI Saúde e bem-estar;39;1267;209;4;436;214;650;2169
+7;Administração;10092;263271;117086;2459;194984;38921;233905;626813
+8;Administração pública;194;6486;3178;67;5780;1792;7572;17497
+9;Agrimensura;2;71;111;1;41;10;51;236
+10;Agrocomputação;12;141;5;1;77;14;91;250
+11;Agroecologia;31;625;571;32;1340;382;1722;2981
+12;Agroindústria;14;285;139;8;599;92;691;1137
+13;Agronegócio;253;5507;2284;30;3330;523;3853;11927
+14;Agronomia;1603;50454;11313;407;30299;7430;37729;101506
+15;Agropecuária;4;175;6;0;66;12;78;263
+16;Alimentos;163;3309;886;51;2832;706;3538;7947
+17;Animação;141;2424;503;4;599;149;748;3820
+18;Antropologia;15;434;114;107;354;149;503;1173
+19;Aquicultura;18;661;115;67;470;100;570;1431
+20;Arqueologia;11;276;122;22;372;128;500;931
+21;Arquitetura e urbanismo;2289;67945;21893;576;31313;6622;37935;130638
+22;Arquivologia;45;1342;512;6;1061;398;1459;3364
+23;Artes;28;144;72;7;136;74;210;461
+24;Artes cênicas;35;910;112;13;369;185;554;1624
+25;Artes formação de professor;42;669;405;25;562;193;755;1896
+26;Artes plásticas;16;559;81;6;542;97;639;1301
+27;Artes visuais;64;2078;611;10;609;321;930;3693
+28;Artes visuais formação de professor;347;11377;4012;129;6126;1931;8057;23922
+29;Assistência a idosos e a deficientes;0;0;0;0;0;0;0;0
+30;Astronomia;18;153;7;0;78;21;99;277
+31;Automação industrial;73;2794;1278;8;1724;483;2207;6360
+32;Banco de dados;49;1652;512;7;816;294;1110;3330
+33;Biblioteconomia;181;4619;1820;40;3368;1285;4653;11313
+34;Biocombustíveis;3;387;44;0;180;88;268;702
+35;Biologia;547;16760;6035;181;9968;2836;12804;36327
+36;Biologia formação de professor;1113;27312;13943;536;27425;7325;34750;77654
+37;Biomedicina;1643;45435;21846;557;27284;5710;32994;102475
+38;Bioquímica;23;299;27;1;227;53;280;630
+39;Biotecnologia;78;1507;366;32;1010;241;1251;3234
+40;Cafeicultura;1;146;2;0;67;22;89;238
+41;Cinema e audiovisual;101;4036;953;26;1455;603;2058;7174
+42;Cinema e audiovisual formação de professor;0;58;32;0;25;5;30;120
+43;Ciência da computação;1091;33446;13238;280;17616;4157;21773;69828
+44;Ciência de dados;132;3658;953;22;1621;461;2082;6847
+45;Ciência política;57;1834;1055;35;1203;436;1639;4620
+46;Ciências aeronáuticas;57;3424;343;17;909;162;1071;4912
+47;Ciências agrárias formação de professor;44;361;91;8;323;129;452;956
+48;Ciências ambientais;27;728;225;6;677;170;847;1833
+49;Ciências atuariais;71;1355;355;7;771;205;976;2764
+50;Ciências da religião;2;60;9;1;65;29;94;166
+51;Ciências dos materiais;3;56;11;0;42;11;53;123
+52;Ciências militares;29;1694;35;2;1343;443;1786;3546
+53;Ciências naturais formação de professor;216;2086;673;58;3044;1343;4387;7420
+54;Ciências sociais;216;4052;1057;71;2298;1400;3698;9094
+55;Ciências sociais formação de professor;283;6974;2651;175;5027;2601;7628;17711
+56;Computação e Tecnologias da Informação e Comunicação (TIC) em biociências e saúde;22;203;127;0;31;13;44;396
+57;Computação formação de professor;196;3282;1713;103;4749;1129;5878;11172
+58;Comunicação assistiva;0;0;0;0;0;0;0;0
+59;Comunicação social;40;1018;256;10;675;175;850;2174
+60;Comércio exterior;244;9890;4631;39;3875;1150;5025;19829
+61;Conservação e restauro;9;263;41;1;135;56;191;505
+62;Construção de edifícios;67;1211;453;8;1204;283;1487;3226
+63;Construção naval;2;116;25;0;57;43;100;243
+64;Contabilidade;6265;143221;61687;1385;115894;22742;138636;351194
+65;Controle de obras;11;259;156;3;169;60;229;658
+66;Criação digital;10;364;41;1;431;84;515;931
+67;Dança;15;309;131;5;227;127;354;814
+68;Dança formação de professor;40;957;416;20;927;473;1400;2833
+69;Defesa cibernética;38;1006;390;11;520;127;647;2092
+70;Desenho industrial;5;508;202;3;177;80;257;975
+71;Design;363;10522;2340;55;3877;1188;5065;18345
+72;Design de interiores;450;10763;4749;53;5590;999;6589;22604
+73;Design de produto;75;2032;389;17;882;171;1053;3566
+74;Design gráfico;398;10981;5059;45;5174;1289;6463;22946
+75;Direito;11381;346828;122964;4037;220846;53305;274151;759361
+76;Ecologia;15;388;44;57;483;126;609;1113
+77;Economia;984;30998;9233;177;14210;4011;18221;59613
+78;Economia doméstica;1;11;1;0;27;0;27;40
+79;Educação do campo em áreas de conhecimento da educação básica formação de professor;47;885;428;262;2441;1296;3737;5359
+80;Educação do campo formação de professor;88;370;287;14;451;298;749;1508
+81;Educação especial formação de professor;101;3650;2299;37;2146;553;2699;8786
+82;Educação física;3829;82984;40491;1297;85487;17420;102907;231508
+83;Educação física formação de professor;2087;44174;26531;744;46146;12519;58665;132201
+84;Educação indígena em áreas de conhecimento da educação básica formação de professor;0;1;0;423;2;0;2;426
+85;Educação indígena formação de professor;0;16;86;1265;23;0;23;1390
+86;Educação infantil formação de professor;3;65;19;0;69;41;110;197
+87;Eletrotécnica industrial;1;67;9;3;159;30;189;269
+88;Eletrônica industrial;19;448;119;3;243;92;335;924
+89;Empreendedorismo;137;2882;1964;28;1651;304;1955;6966
+90;Energias renováveis;2;37;17;2;72;12;84;142
+91;Enfermagem;5273;109876;52655;2828;139336;24811;164147;334779
+92;Enfermagem formação de professor;94;455;5;2;120;57;177;733
+93;Engenharia;8;254;26;0;320;41;361;649
+94;Engenharia acústica;2;146;18;1;20;8;28;195
+95;Engenharia aeroespacial;12;840;165;1;317;85;402;1420
+96;Engenharia aeronáutica;64;982;114;5;283;75;358;1523
+97;Engenharia agrícola;85;2452;437;19;1906;548;2454;5447
+98;Engenharia ambiental;457;9158;1471;70;6697;1456;8153;19309
+99;Engenharia ambiental e sanitária;143;5432;2295;74;3372;958;4330;12274
+100;Engenharia automotiva;10;429;48;4;150;35;185;676
+101;Engenharia bioenergética;0;0;0;0;0;0;0;0
+102;Engenharia biomédica;30;768;305;6;355;82;437;1546
+103;Engenharia bioquímica;43;248;4;1;40;15;55;351
+104;Engenharia cartográfica;9;281;104;1;136;50;186;581
+105;Engenharia civil;4087;103406;38547;1659;71730;14904;86634;234333
+106;Engenharia de agrimensura;11;166;102;0;109;32;141;420
+107;Engenharia de agrimensura e cartográfica;13;459;160;7;458;188;646;1285
+108;Engenharia de alimentos;317;6046;1278;38;3384;1175;4559;12238
+109;Engenharia de bioprocessos;93;1861;91;8;743;214;957;3010
+110;Engenharia de biossistemas;27;400;8;1;116;22;138;574
+111;Engenharia de biotecnologia;18;192;12;2;123;30;153;377
+112;Engenharia de computação (DCN Computação);202;6262;1967;50;3388;712;4100;12581
+113;Engenharia de computação (DCN Engenharia);660;15606;5133;97;7627;1636;9263;30759
+114;Engenharia de controle e automação;433;11300;4846;66;5705;1330;7035;23680
+115;Engenharia de energia;48;1770;363;18;923;380;1303;3502
+116;Engenharia de informação;14;99;91;0;27;31;58;262
+117;Engenharia de manufatura;14;423;46;5;97;40;137;625
+118;Engenharia de materiais;176;3564;768;20;1640;472;2112;6640
+119;Engenharia de minas;60;1325;209;12;1382;284;1666;3272
+120;Engenharia de nanotecnologia;0;20;1;0;6;1;7;28
+121;Engenharia de pesca;47;741;211;43;1605;505;2110;3152
+122;Engenharia de petróleo;62;1106;500;6;873;266;1139;2813
+123;Engenharia de produção;2355;62143;21139;436;34193;8053;42246;128319
+124;Engenharia de recursos hídricos;7;520;145;1;242;63;305;978
+125;Engenharia de software;260;6875;1664;28;3324;587;3911;12738
+126;Engenharia de telecomunicações;46;1663;326;6;1086;234;1320;3361
+127;Engenharia de transportes;26;618;164;2;354;93;447;1257
+128;Engenharia eletrônica;171;4290;2257;29;1790;455;2245;8992
+129;Engenharia elétrica;1818;44244;13383;470;29794;7166;36960;96875
+130;Engenharia ferroviária e metroviária;3;124;5;0;32;5;37;169
+131;Engenharia florestal;146;3880;1170;114;4258;1220;5478;10788
+132;Engenharia física;43;691;170;10;218;87;305;1219
+133;Engenharia geológica;2;94;12;0;21;10;31;139
+134;Engenharia industrial;10;387;23;1;143;66;209;630
+135;Engenharia mecatrônica;204;3943;1238;22;1743;360;2103;7510
+136;Engenharia mecânica;1908;54329;18396;445;29322;6807;36129;111207
+137;Engenharia metalúrgica;33;1179;297;6;897;251;1148;2663
+138;Engenharia naval;42;669;170;11;350;73;423;1315
+139;Engenharia nuclear;4;64;22;0;28;13;41;131
+140;Engenharia química;801;20593;4251;110;7845;2036;9881;35636
+141;Engenharia têxtil;18;396;23;0;170;40;210;647
+142;Ensino profissionalizante em área específica formação de professor;79;1772;2245;22;1230;450;1680;5798
+143;Ensino religioso formação de professor;13;447;323;5;417;136;553;1341
+144;Estatística;166;2838;619;8;1532;395;1927;5558
+145;Estradas;10;238;46;3;238;53;291;588
+146;Estética e cosmética;1304;26809;11316;182;18516;3435;21951;61562
+147;Eventos;50;1476;608;10;781;355;1136;3280
+148;Fabricação de instrumentos musicais não industrial;1;28;0;1;8;1;9;39
+149;Fabricação mecânica;27;1596;562;9;596;243;839;3033
+150;Farmácia;2770;65932;26537;1452;49787;9346;59133;155824
+151;Filosofia;155;3710;1324;24;2006;687;2693;7906
+152;Filosofia formação de professor;330;9205;3699;121;6163;2267;8430;21785
+153;Fisioterapia;2812;68010;34277;1333;56645;12914;69559;175991
+154;Fonoaudiologia;263;4994;1562;69;4063;1068;5131;12019
+155;Formação de técnicos e treinadores esportivos;0;48;12;0;14;3;17;77
+156;Formação pedagógica de professor para a educação básica;17;1430;301;4;559;122;681;2433
+157;Fotografia;43;1882;736;8;890;281;1171;3840
+158;Física;188;3350;870;14;1463;418;1881;6303
+159;Física aplicada;28;312;36;1;53;15;68;445
+160;Física formação de professor;436;10905;3887;148;11607;2920;14527;29903
+161;Física médica;37;502;191;1;244;92;336;1067
+162;Gastronomia;681;15906;6375;141;8267;2191;10458;33561
+163;Geofísica;17;240;66;11;239;62;301;635
+164;Geografia;237;4044;1189;95;2523;1022;3545;9110
+165;Geografia formação de professor;862;17614;9920;482;19041;5591;24632;53510
+166;Geologia;91;2269;437;31;1555;427;1982;4810
+167;Geoprocessamento;7;357;80;1;277;71;348;793
+168;Gerontologia;59;965;1016;13;593;223;816;2869
+169;Gestão ambiental;611;14210;7414;198;10921;2704;13625;36058
+170;Gestão comercial;1062;29197;16026;192;16762;3666;20428;66905
+171;Gestão da informação;16;415;28;2;219;72;291;752
+172;Gestão da produção;212;6172;4705;37;3405;1013;4418;15544
+173;Gestão da qualidade;343;8698;4390;74;5849;1363;7212;20717
+174;Gestão da saúde;19;579;1069;7;446;131;577;2251
+175;Gestão da tecnologia da informação;461;16413;7578;161;10292;2416;12708;37321
+176;Gestão de cooperativas;49;1067;333;7;682;261;943;2399
+177;Gestão de negócios;1359;46009;19592;206;21662;5107;26769;93935
+178;Gestão de negócios internacionais;16;444;9;1;74;19;93;563
+179;Gestão de pessoas;2912;67101;45205;636;63961;14565;78526;194380
+180;Gestão de resíduos;0;5;21;0;3;4;7;33
+181;Gestão de serviços;4;199;134;0;106;34;140;477
+182;Gestão de telecomunicações;1;11;0;0;6;3;9;21
+183;Gestão desportiva e de lazer;10;275;52;1;262;94;356;694
+184;Gestão do agronegócio;75;2139;533;23;1477;251;1728;4498
+185;Gestão estratégica;5;98;142;0;34;8;42;287
+186;Gestão financeira;1007;26522;14743;213;16444;3621;20065;62550
+187;Gestão fiscal e tributária;1;104;1;0;71;25;96;202
+188;Gestão hospitalar;370;8354;5981;124;7421;1728;9149;23978
+189;Gestão portuária;12;624;378;9;443;135;578;1601
+190;Gestão pública;1071;24446;15212;208;20844;4801;25645;66582
+191;História;204;4060;1212;18;1652;836;2488;7982
+192;História da arte;8;473;115;7;229;101;330;933
+193;História formação de professor;1250;35328;16887;647;28716;9933;38649;92761
+194;Horticultura;3;147;34;2;26;6;32;218
+195;Hotelaria;69;1445;625;20;1138;471;1609;3768
+196;Inteligência artificial;1;32;11;1;15;5;20;65
+197;Internet das coisas;5;169;8;0;67;19;86;268
+198;Investigação e perícia;252;7178;6703;84;6806;1721;8527;22744
+199;Irrigação e drenagem;3;34;7;0;180;24;204;248
+200;Jogos digitais;137;4616;1245;22;1808;391;2199;8219
+201;Jornalismo;468;21252;7431;249;11543;4359;15902;45302
+202;Laticínios;5;94;32;0;162;39;201;332
+203;Letras alemão;46;213;5;0;10;18;28;292
+204;Letras alemão formação de professor;1;79;14;0;47;18;65;159
+205;Letras escrita criativa;0;105;0;0;9;6;15;120
+206;Letras espanhol;63;249;1;1;19;43;62;376
+207;Letras espanhol formação de professor;93;2638;1236;26;2903;693;3596;7589
+208;Letras francês;67;291;21;2;68;33;101;482
+209;Letras francês formação de professor;6;301;114;5;292;115;407;833
+210;Letras inglês;65;489;333;8;103;77;180;1075
+211;Letras inglês formação de professor;332;11066;4435;137;8715;2482;11197;27167
+212;Letras italiano;46;183;82;0;13;30;43;354
+213;Letras italiano formação de professor;3;222;101;1;101;45;146;473
+214;Letras japonês;38;128;62;0;43;19;62;290
+215;Letras japonês formação de professor;24;97;86;0;102;23;125;332
+216;Letras linguística;46;270;59;3;57;55;112;490
+217;Letras língua brasileira de sinais;30;970;451;18;723;211;934;2403
+218;Letras língua brasileira de sinais formação de professor;192;3433;1761;32;3289;988;4277;9695
+219;Letras línguas estrangeiras clássicas;20;79;2;1;10;8;18;120
+220;Letras línguas estrangeiras clássicas formação de professor;2;70;29;3;63;26;89;193
+221;Letras outras línguas estrangeiras modernas;34;311;141;7;212;88;300;793
+222;Letras outras línguas estrangeiras modernas formação de professor;0;93;11;1;13;11;24;129
+223;Letras português;490;3496;824;27;1060;574;1634;6471
+224;Letras português alemão;1;29;62;0;11;5;16;108
+225;Letras português alemão formação de professor;1;237;81;1;90;26;116;436
+226;Letras português espanhol;2;60;130;3;17;35;52;247
+227;Letras português espanhol formação de professor;107;5305;877;155;3783;1253;5036;11480
+228;Letras português formação de professor;1435;26008;14355;517;26622;8028;34650;76965
+229;Letras português francês;4;61;124;0;26;22;48;237
+230;Letras português francês formação de professor;25;850;216;25;883;272;1155;2271
+231;Letras português inglês;10;333;29;0;69;30;99;471
+232;Letras português inglês formação de professor;631;18695;6797;246;12987;3072;16059;42428
+233;Letras português italiano;0;12;5;0;9;7;16;33
+234;Letras português italiano formação de professor;4;138;9;0;100;42;142;293
+235;Letras português japonês;0;13;1;0;9;0;9;23
+236;Letras português japonês formação de professor;34;191;17;2;101;25;126;370
+237;Letras português língua brasileira de sinais;5;49;44;6;53;31;84;188
+238;Letras português língua brasileira de sinais formação de professor;112;1299;463;12;1271;584;1855;3741
+239;Letras português línguas estrangeiras clássicas;1;27;79;0;28;20;48;155
+240;Letras português línguas estrangeiras clássicas formação de professor;1;62;87;0;61;36;97;247
+241;Letras português outras línguas estrangeiras modernas;1;9;3;0;8;2;10;23
+242;Letras português outras línguas estrangeiras modernas formação de professor;7;665;243;5;271;156;427;1347
+243;Letras tradutor e intérprete;43;1794;482;1;714;196;910;3230
+244;Logística;1360;36363;26882;378;32585;8620;41205;106188
+245;Manejo da produção agrícola;8;384;77;5;239;54;293;767
+246;Manutenção de aeronaves;11;335;36;1;144;50;194;577
+247;Manutenção industrial;14;1104;217;11;747;223;970;2316
+248;Marketing;1203;33854;18209;262;18663;4783;23446;76974
+249;Matemática;70;1885;784;19;1056;391;1447;4205
+250;Matemática aplicada e computacional;91;881;72;1;453;119;572;1617
+251;Matemática formação de professor;1536;34236;15890;624;35197;8661;43858;96144
+252;Mecatrônica industrial;44;1628;600;11;1126;238;1364;3647
+253;Mecânica de precisão;25;780;321;6;383;137;520;1652
+254;Medicina;3833;124615;24025;822;44546;6438;50984;204279
+255;Medicina veterinária;1777;66027;14689;568;29200;4670;33870;116931
+256;Meteorologia;23;529;178;7;369;100;469;1206
+257;Mineração;10;71;2;1;87;30;117;201
+258;Moda;385;9161;3281;70;4117;1121;5238;18135
+259;Museologia;12;859;247;6;475;282;757;1881
+260;Musicoterapia;7;184;15;1;86;25;111;318
+261;Música;99;2490;558;21;1097;465;1562;4730
+262;Música formação de professor;196;6177;2624;74;5001;1736;6737;15808
+263;Negócios imobiliários;192;4826;2585;41;3571;827;4398;12042
+264;Nutrição;2459;64420;29618;1128;41808;8831;50639;148264
+265;Oceanografia;56;865;242;13;454;232;686;1862
+266;Odontologia;2563;69691;17638;1186;39953;6061;46014;137092
+267;Oftálmica;6;28;3;1;20;4;24;62
+268;Optometria;114;1390;625;4;744;120;864;2997
+269;Papel e celulose;0;2;0;0;1;0;1;3
+270;Pedagogia;12824;294291;160603;4736;284899;59074;343973;816427
+271;Petróleo e gás;1;10;11;1;17;10;27;50
+272;Podologia;148;2125;705;14;776;32;808;3800
+273;Polímeros;5;285;164;1;149;39;188;643
+274;Processos escolares;6;124;96;1;284;49;333;560
+275;Processos metalúrgicos;1;333;86;0;159;43;202;622
+276;Produção audiovisual;50;1784;1085;8;582;232;814;3741
+277;Produção cultural;15;748;271;7;387;290;677;1718
+278;Produção cênica;3;93;7;0;32;22;54;157
+279;Produção de cachaça;0;2;1;1;12;3;15;19
+280;Produção de cerveja;14;466;82;1;122;2;124;687
+281;Produção de vestuário;0;42;7;0;18;7;25;74
+282;Produção editorial;15;222;18;0;66;27;93;348
+283;Produção fonográfica;20;847;120;4;230;108;338;1329
+284;Produção gráfica;0;14;0;0;7;5;12;26
+285;Produção industrial;107;3102;2114;20;1794;463;2257;7600
+286;Produção multimídia;21;1181;170;3;411;163;574;1949
+287;Produção pesqueira;0;4;109;3;16;2;18;134
+288;Produção sucroalcooleira;2;97;20;1;109;42;151;271
+289;Produção têxtil;60;388;5;2;116;47;163;618
+290;"""Programas interdisciplinares abrangendo agricultura  silvicultura  pesca e veterinária""";1;55;22;15;130;28;158;251
+291;Programas interdisciplinares abrangendo artes e humanidades;77;1400;197;54;1244;1091;2335;4063
+292;"""Programas interdisciplinares abrangendo ciências naturais";751;12166;1327;134;8787;3310;12097;26475
+293;"""Programas interdisciplinares abrangendo ciências sociais  comunicação e informação""";110;2414;265;107;1410;558;1968;4864
+294;Programas interdisciplinares abrangendo computação e Tecnologias da Informação e Comunicação (TIC);26;1031;103;4;722;132;854;2018
+295;Programas interdisciplinares abrangendo educação;182;1078;973;93;1778;1541;3319;5645
+296;"""Programas interdisciplinares abrangendo engenharia  produção e construção""";9;192;21;0;158;39;197;419
+297;"""Programas interdisciplinares abrangendo negócios  administração e direito""";16;667;472;4;449;140;589;1748
+298;Programas interdisciplinares abrangendo saúde e bem-estar;47;368;118;25;514;404;918;1476
+299;Práticas integrativas;107;2426;790;13;622;124;746;4082
+300;Psicologia;4239;131375;49290;1711;71555;17601;89156;275771
+301;Psicologia formação de professor;15;293;98;4;142;100;242;652
+302;Psicopedagogia;185;2615;1214;20;1730;221;1951;5985
+303;Publicidade e propaganda;858;34398;12698;209;14376;4509;18885;67048
+304;Química;384;6989;1737;24;3177;946;4123;13257
+305;Química formação de professor;566;13585;4496;221;14586;3636;18222;37090
+306;Química industrial e tecnológica;199;3914;1022;24;2748;696;3444;8603
+307;Radiologia;371;9048;6127;102;8223;1976;10199;25847
+308;Redes de computadores;258;6802;2681;82;6216;1656;7872;17695
+309;Redes de telecomunicações;0;20;27;0;20;6;26;73
+310;Refrigeração e climatização;2;103;79;0;106;38;144;328
+311;Relações internacionais;420;15038;4303;94;5649;2068;7717;27572
+312;Relações públicas;162;5181;1353;55;1949;996;2945;9696
+313;Rochas ornamentais;0;0;0;0;0;0;0;0
+314;"""Rádio  TV e internet""";86;3392;577;48;1267;612;1879;5982
+315;Saneamento ambiental;22;571;377;8;804;188;992;1970
+316;Saúde coletiva;21;625;229;140;874;226;1100;2115
+317;Saúde pública;17;81;1;0;18;14;32;131
+318;Secretariado;220;4322;2009;89;3815;894;4709;11349
+319;Segurança da informação;93;2926;1050;19;1399;393;1792;5880
+320;Segurança no trabalho;225;4434;4055;53;4454;1015;5469;14236
+321;Segurança no trânsito;2;112;27;0;49;16;65;206
+322;Segurança privada;244;5398;4566;53;6415;1932;8347;18608
+323;Segurança pública;233;6574;8766;74;8416;2007;10423;26070
+324;Seguros;4;351;108;0;171;45;216;679
+325;Serviço social;2158;37920;25656;744;53314;12823;66137;132615
+326;Serviços jurídicos e cartoriais;267;5889;5825;49;5536;1172;6708;18738
+327;Serviços penais;6;182;295;3;175;69;244;730
+328;Silvicultura;0;83;1;1;23;2;25;110
+329;Sistemas automotivos;11;621;482;2;197;119;316;1432
+330;Sistemas biomédicos;10;230;189;1;122;73;195;625
+331;Sistemas de informação;3222;94204;37544;726;59097;14409;73506;209202
+332;Sistemas de navegação fluvial;1;77;1;0;34;10;44;123
+333;Sistemas de telecomunicações;11;233;15;4;193;56;249;512
+334;Sistemas elétricos;14;442;202;3;215;88;303;964
+335;Sistemas embarcados;1;40;1;0;8;4;12;54
+336;Sistemas para internet;137;4763;1500;48;2873;639;3512;9960
+337;Sociologia;5;357;124;2;141;88;229;717
+338;Soldagem;9;292;159;1;232;102;334;795
+339;Teatro;15;951;191;9;274;149;423;1589
+340;Teatro formação de professor;75;2053;563;26;1605;831;2436;5153
+341;Telemática;4;139;24;0;241;25;266;433
+342;Teologia;591;11793;8051;93;10274;2647;12921;33449
+343;Terapia ocupacional;92;2673;627;47;1573;497;2070;5509
+344;Toxicologia;1;43;59;0;2;8;10;113
+345;Transporte aéreo;0;79;4;1;36;6;42;126
+346;Transporte terrestre;4;319;221;1;177;74;251;796
+347;Turismo;354;7674;4327;125;7164;2248;9412;21892
+348;Viticultura e enologia;7;310;54;1;113;26;139;511
+349;Zootecnia;301;8081;1594;88;7249;1964;9213;19277
